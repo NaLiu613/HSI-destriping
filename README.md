@@ -1,2 +1,2 @@
-# HSI-destrping
+# HSI-destriping
 used for HSI destriping
